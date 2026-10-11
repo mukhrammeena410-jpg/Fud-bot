@@ -1,0 +1,7 @@
+.env
+*.db
+users.json
+__pycache__/
+*.pyc
+clones/
+clones.json

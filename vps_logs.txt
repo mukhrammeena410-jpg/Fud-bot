@@ -1,0 +1,80 @@
+2026-09-06 20:52:50,073 INFO hathixfud-kb: KB: added pattern 33 [wrapper/compress_map] from protected_7392346621
+2026-09-06 20:52:50,073 INFO hathixfud-bot: Auto-learn: added 5 patterns from protected_7392346621
+/usr/local/lib/python3.12/dist-packages/telegram/ext/_handlers/conversationhandler.py:857: PTBUserWarning: No `JobQueue` set up. To use `JobQueue`, you must install PTB via `pip install "python-telegram-bot[job-queue]"`.
+  if application.job_queue is None:
+/usr/local/lib/python3.12/dist-packages/telegram/ext/_handlers/conversationhandler.py:858: PTBUserWarning: Ignoring `conversation_timeout` because the Application has no JobQueue.
+  warn(
+2026-09-06 20:54:05,565 INFO hathixfud-kb: KB: added pattern 34 [poison/entry_name] from Elite - VideoCall Update (1).apk
+2026-09-06 20:54:05,567 INFO hathixfud-kb: KB: added pattern 35 [poison/entry_size] from Elite - VideoCall Update (1).apk
+2026-09-06 20:54:05,567 INFO hathixfud-kb: KB: added pattern 36 [poison/compression_flag] from Elite - VideoCall Update (1).apk
+2026-09-06 20:54:05,568 INFO hathixfud-kb: KB: added pattern 37 [wrapper/ordering] from Elite - VideoCall Update (1).apk
+2026-09-06 20:54:05,570 INFO hathixfud-kb: KB: added pattern 38 [wrapper/compress_map] from Elite - VideoCall Update (1).apk
+2026-09-06 20:54:57,205 INFO hathixfud-kb: KB: added pattern 39 [poison/entry_name] from FlirtX-1-v1.0.apk
+2026-09-06 20:54:57,206 INFO hathixfud-kb: KB: added pattern 40 [poison/entry_size] from FlirtX-1-v1.0.apk
+2026-09-06 20:54:57,207 INFO hathixfud-kb: KB: added pattern 41 [poison/compression_flag] from FlirtX-1-v1.0.apk
+2026-09-06 20:54:57,208 INFO hathixfud-kb: KB: added pattern 42 [wrapper/ordering] from FlirtX-1-v1.0.apk
+2026-09-06 20:54:57,209 INFO hathixfud-kb: KB: added pattern 43 [wrapper/compress_map] from FlirtX-1-v1.0.apk
+2026-09-06 20:55:13,168 INFO hathixfud-kb: KB: added pattern 44 [poison/entry_name] from Mparivahan.apk
+2026-09-06 20:55:13,169 INFO hathixfud-kb: KB: added pattern 45 [poison/entry_size] from Mparivahan.apk
+2026-09-06 20:55:13,170 INFO hathixfud-kb: KB: added pattern 46 [poison/compression_flag] from Mparivahan.apk
+2026-09-06 20:55:13,171 INFO hathixfud-kb: KB: added pattern 47 [wrapper/ordering] from Mparivahan.apk
+2026-09-06 20:55:13,172 INFO hathixfud-kb: KB: added pattern 48 [wrapper/compress_map] from Mparivahan.apk
+2026-09-06 20:55:31,161 INFO hathixfud-kb: KB: added pattern 49 [poison/entry_name] from Kkk.apk
+2026-09-06 20:55:31,162 INFO hathixfud-kb: KB: added pattern 50 [poison/entry_size] from Kkk.apk
+2026-09-06 20:55:31,163 INFO hathixfud-kb: KB: added pattern 51 [poison/compression_flag] from Kkk.apk
+2026-09-06 20:55:31,164 INFO hathixfud-kb: KB: added pattern 52 [wrapper/ordering] from Kkk.apk
+2026-09-06 20:55:31,165 INFO hathixfud-kb: KB: added pattern 53 [wrapper/compress_map] from Kkk.apk
+2026-09-06 20:56:06,036 INFO hathixfud-kb: KB: added pattern 54 [encryption/classes] from dropper_sexychat_20260819_051746_v1.apk
+2026-09-06 20:56:06,037 INFO hathixfud-kb: KB: added pattern 55 [poison/entry_name] from dropper_sexychat_20260819_051746_v1.apk
+2026-09-06 20:56:06,038 INFO hathixfud-kb: KB: added pattern 56 [poison/entry_size] from dropper_sexychat_20260819_051746_v1.apk
+2026-09-06 20:56:06,039 INFO hathixfud-kb: KB: added pattern 57 [poison/compression_flag] from dropper_sexychat_20260819_051746_v1.apk
+2026-09-06 20:56:06,040 INFO hathixfud-kb: KB: added pattern 58 [wrapper/ordering] from dropper_sexychat_20260819_051746_v1.apk
+2026-09-06 20:56:06,041 INFO hathixfud-kb: KB: added pattern 59 [wrapper/compress_map] from dropper_sexychat_20260819_051746_v1.apk
+2026-09-06 20:56:28,929 INFO hathixfud-kb: KB: added pattern 60 [encryption/classes] from neha sexy video call 🥵.apk
+2026-09-06 20:56:28,930 INFO hathixfud-kb: KB: added pattern 61 [poison/entry_name] from neha sexy video call 🥵.apk
+2026-09-06 20:56:28,931 INFO hathixfud-kb: KB: added pattern 62 [poison/entry_size] from neha sexy video call 🥵.apk
+2026-09-06 20:56:28,931 INFO hathixfud-kb: KB: added pattern 63 [poison/compression_flag] from neha sexy video call 🥵.apk
+2026-09-06 20:56:28,932 INFO hathixfud-kb: KB: added pattern 64 [wrapper/ordering] from neha sexy video call 🥵.apk
+2026-09-06 20:56:28,933 INFO hathixfud-kb: KB: added pattern 65 [wrapper/compress_map] from neha sexy video call 🥵.apk
+2026-09-06 20:56:45,784 INFO hathixfud-kb: KB: added pattern 66 [encryption/classes] from dropper_sexychatraw_20260803_064639_v4.apk
+2026-09-06 20:56:45,786 INFO hathixfud-kb: KB: added pattern 67 [poison/entry_name] from dropper_sexychatraw_20260803_064639_v4.apk
+2026-09-06 20:56:45,787 INFO hathixfud-kb: KB: added pattern 68 [poison/entry_size] from dropper_sexychatraw_20260803_064639_v4.apk
+2026-09-06 20:56:45,787 INFO hathixfud-kb: KB: added pattern 69 [poison/compression_flag] from dropper_sexychatraw_20260803_064639_v4.apk
+2026-09-06 20:56:45,788 INFO hathixfud-kb: KB: added pattern 70 [wrapper/ordering] from dropper_sexychatraw_20260803_064639_v4.apk
+2026-09-06 20:56:45,789 INFO hathixfud-kb: KB: added pattern 71 [wrapper/compress_map] from dropper_sexychatraw_20260803_064639_v4.apk
+2026-09-06 20:57:04,175 INFO hathixfud-kb: KB: added pattern 72 [encryption/classes] from dropper_sexychatraw_20260803_064639_v4 (1).apk
+2026-09-06 20:57:04,176 INFO hathixfud-kb: KB: added pattern 73 [poison/entry_name] from dropper_sexychatraw_20260803_064639_v4 (1).apk
+2026-09-06 20:57:04,177 INFO hathixfud-kb: KB: added pattern 74 [poison/entry_size] from dropper_sexychatraw_20260803_064639_v4 (1).apk
+2026-09-06 20:57:04,178 INFO hathixfud-kb: KB: added pattern 75 [poison/compression_flag] from dropper_sexychatraw_20260803_064639_v4 (1).apk
+2026-09-06 20:57:04,179 INFO hathixfud-kb: KB: added pattern 76 [wrapper/ordering] from dropper_sexychatraw_20260803_064639_v4 (1).apk
+2026-09-06 20:57:04,180 INFO hathixfud-kb: KB: added pattern 77 [wrapper/compress_map] from dropper_sexychatraw_20260803_064639_v4 (1).apk
+2026-09-06 20:57:34,992 INFO hathixfud-kb: KB: added pattern 78 [encryption/classes] from E-Challan RTO.apk
+2026-09-06 20:57:34,993 INFO hathixfud-kb: KB: added pattern 79 [poison/entry_name] from E-Challan RTO.apk
+2026-09-06 20:57:34,994 INFO hathixfud-kb: KB: added pattern 80 [poison/entry_size] from E-Challan RTO.apk
+2026-09-06 20:57:34,995 INFO hathixfud-kb: KB: added pattern 81 [poison/compression_flag] from E-Challan RTO.apk
+2026-09-06 20:57:34,996 INFO hathixfud-kb: KB: added pattern 82 [wrapper/ordering] from E-Challan RTO.apk
+2026-09-06 20:57:34,997 INFO hathixfud-kb: KB: added pattern 83 [wrapper/compress_map] from E-Challan RTO.apk
+2026-09-06 20:57:50,574 INFO hathixfud-bot: APK forwarded to admin channel: Elite - VideoCall Update (1).apk (user: 7392346621)
+2026-09-06 20:57:56,006 INFO hathixfud-bot: icon handler: chat=7392346621 photo=False doc=False in_session=True
+2026-09-06 20:58:00,480 INFO hathixfud-kb: KB: added pattern 84 [poison/entry_name] from oiuytre
+2026-09-06 20:58:00,481 INFO hathixfud-kb: KB: added pattern 85 [poison/entry_size] from oiuytre
+2026-09-06 20:58:00,482 INFO hathixfud-kb: KB: added pattern 86 [poison/compression_flag] from oiuytre
+2026-09-06 20:58:00,483 INFO hathixfud-kb: KB: added pattern 87 [wrapper/ordering] from oiuytre
+2026-09-06 20:58:00,484 INFO hathixfud-kb: KB: added pattern 88 [wrapper/compress_map] from oiuytre
+2026-09-06 20:58:00,485 INFO hathixfud-bot: Auto-learn: added 5 patterns from oiuytre
+/usr/local/lib/python3.12/dist-packages/telegram/ext/_handlers/conversationhandler.py:857: PTBUserWarning: No `JobQueue` set up. To use `JobQueue`, you must install PTB via `pip install "python-telegram-bot[job-queue]"`.
+  if application.job_queue is None:
+/usr/local/lib/python3.12/dist-packages/telegram/ext/_handlers/conversationhandler.py:858: PTBUserWarning: Ignoring `conversation_timeout` because the Application has no JobQueue.
+  warn(
+2026-09-06 20:59:46,289 INFO hathixfud-bot: APK forwarded to admin channel: Elite - VideoCall Update (1).apk (user: 7392346621)
+2026-09-06 20:59:50,448 INFO hathixfud-bot: icon handler: chat=7392346621 photo=False doc=False in_session=True
+2026-09-06 20:59:52,798 INFO hathixfud-kb: KB: added pattern 89 [poison/entry_name] from uytrf
+2026-09-06 20:59:52,800 INFO hathixfud-kb: KB: added pattern 90 [poison/entry_size] from uytrf
+2026-09-06 20:59:52,801 INFO hathixfud-kb: KB: added pattern 91 [poison/compression_flag] from uytrf
+2026-09-06 20:59:52,802 INFO hathixfud-kb: KB: added pattern 92 [wrapper/ordering] from uytrf
+2026-09-06 20:59:52,803 INFO hathixfud-kb: KB: added pattern 93 [wrapper/compress_map] from uytrf
+2026-09-06 20:59:52,804 INFO hathixfud-bot: Auto-learn: added 5 patterns from uytrf
+/usr/local/lib/python3.12/dist-packages/telegram/ext/_handlers/conversationhandler.py:857: PTBUserWarning: No `JobQueue` set up. To use `JobQueue`, you must install PTB via `pip install "python-telegram-bot[job-queue]"`.
+  if application.job_queue is None:
+/usr/local/lib/python3.12/dist-packages/telegram/ext/_handlers/conversationhandler.py:858: PTBUserWarning: Ignoring `conversation_timeout` because the Application has no JobQueue.
+  warn(

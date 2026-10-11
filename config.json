@@ -1,0 +1,24 @@
+{
+ "admins": [],
+ "botname": "ཽ𝘍𝘙𝘌𝘌 𝘍𝘜𝘋 𝘉𝘖𝘛",
+ "payee": "@ShaileshXlive_Hunter",
+ "free_mode": true,
+ "plans": {
+  "limited": [
+   {"apks": 1, "price": "$3"},
+   {"apks": 3, "price": "$14"},
+   {"apks": 10, "price": "$25"}
+  ],
+  "unlimited": [
+   {"days": 7, "price": "$40"},
+   {"days": 14, "price": "$70"}
+  ]
+ },
+ "promos": {},
+ "plan7": "$40",
+ "plan30": "$100",
+ "rate_limit": 999,
+ "anti_spam_warnings": 3,
+ "max_concurrent_builds": 3,
+ "version_bumping": true
+}

@@ -1,0 +1,40 @@
+2026-09-07 00:27:30,179 INFO hathixfud-bot.db: Database initialized at C:\Users\Lucky\OneDrive\Desktop\Advance Fud bot\hathixfud\hathixfud_bot.db
+C:\Users\Lucky\OneDrive\Desktop\Advance Fud bot\hathixfud\hathixfud_bot.py:2444: DeprecationWarning: 'asyncio.WindowsSelectorEventLoopPolicy' is deprecated and slated for removal in Python 3.16
+  asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+C:\Users\Lucky\OneDrive\Desktop\Advance Fud bot\hathixfud\hathixfud_bot.py:2444: DeprecationWarning: 'asyncio.set_event_loop_policy' is deprecated and slated for removal in Python 3.16
+  asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+2026-09-07 00:27:32,308 INFO apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-07 00:27:32,310 INFO apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-07 00:27:32,313 INFO hathixfud-bot: hathixfud bot starting…
+2026-09-07 00:27:38,491 INFO apscheduler.scheduler: Added job "_cleanup_job" to job store "default"
+2026-09-07 00:27:38,491 INFO apscheduler.scheduler: Added job "_renewal_reminders" to job store "default"
+2026-09-07 00:27:38,492 INFO apscheduler.scheduler: Scheduler started
+2026-09-07 00:27:38,492 INFO telegram.ext.Application: Application started
+2026-09-07 00:29:00,322 INFO apscheduler.scheduler: Added job "_trigger_timeout" to job store "default"
+2026-09-07 00:29:31,996 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:01:31 UTC)" (scheduled at 2026-09-06 18:59:31.982362+00:00)
+2026-09-07 00:29:31,997 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:01:31 UTC)" executed successfully
+2026-09-07 00:29:43,459 INFO apscheduler.scheduler: Removed job 03be4226b61d4e57b7de0bd885d978ae
+2026-09-07 00:29:44,892 INFO apscheduler.scheduler: Added job "_trigger_timeout" to job store "default"
+2026-09-07 00:29:53,654 INFO apscheduler.scheduler: Removed job f73dba0b887947c3bae6886b6e3a4d58
+2026-09-07 00:29:53,654 INFO hathixfud-bot: icon handler: chat=7392346621 photo=False doc=False in_session=True
+2026-09-07 00:30:20,000 INFO apscheduler.scheduler: Added job "_trigger_timeout" to job store "default"
+2026-09-07 00:31:31,994 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:03:31 UTC)" (scheduled at 2026-09-06 19:01:31.982362+00:00)
+2026-09-07 00:31:31,995 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:03:31 UTC)" executed successfully
+2026-09-07 00:33:31,996 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:05:31 UTC)" (scheduled at 2026-09-06 19:03:31.982362+00:00)
+2026-09-07 00:33:31,997 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:05:31 UTC)" executed successfully
+2026-09-07 00:34:20,003 INFO apscheduler.scheduler: Removed job 424e5f01f5a649d6afd050cacffe4aff
+2026-09-07 00:34:20,004 INFO apscheduler.executors.default: Running job "_trigger_timeout (trigger: date[2026-09-06 19:04:19 UTC], next run at: 2026-09-06 19:04:19 UTC)" (scheduled at 2026-09-06 19:04:19.999263+00:00)
+2026-09-07 00:34:20,005 INFO apscheduler.executors.default: Job "_trigger_timeout (trigger: date[2026-09-06 19:04:19 UTC], next run at: 2026-09-06 19:04:19 UTC)" executed successfully
+2026-09-07 00:35:31,991 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:07:31 UTC)" (scheduled at 2026-09-06 19:05:31.982362+00:00)
+2026-09-07 00:35:31,992 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:07:31 UTC)" executed successfully
+2026-09-07 00:37:32,000 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:09:31 UTC)" (scheduled at 2026-09-06 19:07:31.982362+00:00)
+2026-09-07 00:37:32,001 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:09:31 UTC)" executed successfully
+2026-09-07 00:39:32,063 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:11:31 UTC)" (scheduled at 2026-09-06 19:09:31.982362+00:00)
+2026-09-07 00:39:32,065 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:11:31 UTC)" executed successfully
+2026-09-07 00:41:34,009 WARNING apscheduler.executors.default: Run time of job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:13:31 UTC)" was missed by 0:00:01.146128
+2026-09-07 00:43:31,994 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:15:31 UTC)" (scheduled at 2026-09-06 19:13:31.982362+00:00)
+2026-09-07 00:43:31,996 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:15:31 UTC)" executed successfully
+2026-09-07 00:45:31,996 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:17:31 UTC)" (scheduled at 2026-09-06 19:15:31.982362+00:00)
+2026-09-07 00:45:31,997 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:17:31 UTC)" executed successfully
+2026-09-07 00:47:32,002 INFO apscheduler.executors.default: Running job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:19:31 UTC)" (scheduled at 2026-09-06 19:17:31.982362+00:00)
+2026-09-07 00:47:32,003 INFO apscheduler.executors.default: Job "_cleanup_job (trigger: interval[0:02:00], next run at: 2026-09-06 19:19:31 UTC)" executed successfully
